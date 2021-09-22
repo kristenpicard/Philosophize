@@ -7,7 +7,7 @@ function Navigation() {
   return (
     <Navbar bg="dark" variant="dark">
       <Container>
-        <Navbar.Brand href="/">Philosiphize</Navbar.Brand>
+        <Navbar.Brand href="/">Drink Up</Navbar.Brand>
         <Nav className="me-auto">
           <Link
             to="/"
