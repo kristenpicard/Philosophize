@@ -5,12 +5,10 @@ import axios from "axios";
 
 export default {
   getRandomDrink: function () {
-    return axios.get("www.thecocktaildb.com/api/json/v1/1/random.php");
+    return axios.get("https://www.thecocktaildb.com/api/json/v1/1/random.php");
   },
   getDrinkByName: function (name) {
-    return axios.get(
-      "www.thecocktaildb.com/api/json/v1/1/search.php?s=" + name
-    );
+    return axios.get("www.thecocktaildb.com/api/json/v1/1/search.php?s=" + name);
   },
   getBaseBreedsList: function () {
     return axios.get("www.thecocktaildb.com/api/json/v1/1/search.php?f=a");
