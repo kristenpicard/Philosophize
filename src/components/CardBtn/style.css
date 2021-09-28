@@ -5,14 +5,15 @@
   position: absolute;
   border: none;
   bottom: 10%;
-  color: #FFF;
+  color: black;
   font-size: 24px;
   cursor: pointer;
-  font-family: FontAwesome;
+  /* font-family: FontAwesome; */
   outline: none;
+  right: 1%;
 }
 
-@keyframes iconBounce {
+/* @keyframes iconBounce {
   0% {
     font-size: 24px;
   }
@@ -25,4 +26,4 @@
     font-size: 24px;
   }
 
-}
+} */
