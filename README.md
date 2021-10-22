@@ -1,1 +1,1 @@
-# Philosophize
+# Random Cocktail Generator
