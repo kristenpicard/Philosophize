@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Random-Cocktail-Generator/static/css/main.01044685.chunk.css",
+    "main.js": "/Random-Cocktail-Generator/static/js/main.08869b71.chunk.js",
+    "main.js.map": "/Random-Cocktail-Generator/static/js/main.08869b71.chunk.js.map",
+    "runtime-main.js": "/Random-Cocktail-Generator/static/js/runtime-main.fd96493b.js",
+    "runtime-main.js.map": "/Random-Cocktail-Generator/static/js/runtime-main.fd96493b.js.map",
+    "static/js/2.13102617.chunk.js": "/Random-Cocktail-Generator/static/js/2.13102617.chunk.js",
+    "static/js/2.13102617.chunk.js.map": "/Random-Cocktail-Generator/static/js/2.13102617.chunk.js.map",
+    "index.html": "/Random-Cocktail-Generator/index.html",
+    "static/css/main.01044685.chunk.css.map": "/Random-Cocktail-Generator/static/css/main.01044685.chunk.css.map",
+    "static/js/2.13102617.chunk.js.LICENSE.txt": "/Random-Cocktail-Generator/static/js/2.13102617.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd96493b.js",
+    "static/js/2.13102617.chunk.js",
+    "static/css/main.01044685.chunk.css",
+    "static/js/main.08869b71.chunk.js"
+  ]
+}
