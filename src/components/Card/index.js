@@ -11,9 +11,7 @@ function Card(props) {
           backgroundImage: props.image ? `url(${props.image})` : "none",
         }}
       >
-        {!props.image && (
-          <i className="fa fa-spinner fa-spin" aria-hidden="false" />
-        )}
+        {!props.image}
         <CardBtn onClick={props.handleBtnClick} />
       </div>
       <div>
